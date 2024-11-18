@@ -1,0 +1,112 @@
+[
+  {
+    "ScaledTimeAlive": 0.2046,
+    "AvgCentroidDistance": 18148962.0023,
+    "TravelledDistance": 25775068.5473,
+    "AvgRoundVelocity": 7462.5913,
+    "AvgKillDistance": 1782309.7158,
+    "AvgSiteDistance": 8563191.018,
+    "RoundWinner": 0,
+    "MatchWinner": 0,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 0.8102,
+    "AvgCentroidDistance": 6020257.3722,
+    "TravelledDistance": 19321786.577,
+    "AvgRoundVelocity": 9737.5138,
+    "AvgKillDistance": 7035338.8691,
+    "AvgSiteDistance": 33278.0284,
+    "RoundWinner": 1,
+    "MatchWinner": 1,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 0.5811,
+    "AvgCentroidDistance": 4645273.8249,
+    "TravelledDistance": 28767096.7283,
+    "AvgRoundVelocity": 22525.607,
+    "AvgKillDistance": 6643263.4797,
+    "AvgSiteDistance": 11670560.1476,
+    "RoundWinner": 1,
+    "MatchWinner": 0,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 1.2811,
+    "AvgCentroidDistance": 10007254.2144,
+    "TravelledDistance": 8206463.8108,
+    "AvgRoundVelocity": 21536.2723,
+    "AvgKillDistance": 5931999.7941,
+    "AvgSiteDistance": 2404808.4863,
+    "RoundWinner": 1,
+    "MatchWinner": 0,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 1.6471,
+    "AvgCentroidDistance": 12444990.5757,
+    "TravelledDistance": 25946688.1341,
+    "AvgRoundVelocity": 9291.188,
+    "AvgKillDistance": 9885542.2196,
+    "AvgSiteDistance": 3369449.6592,
+    "RoundWinner": 0,
+    "MatchWinner": 1,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 0.4533,
+    "AvgCentroidDistance": 14511111.2006,
+    "TravelledDistance": 21818082.6648,
+    "AvgRoundVelocity": 11005.3197,
+    "AvgKillDistance": 3628872.2823,
+    "AvgSiteDistance": 11597574.6065,
+    "RoundWinner": 0,
+    "MatchWinner": 0,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 1.7606,
+    "AvgCentroidDistance": 1303351.0576,
+    "TravelledDistance": 9876311.4603,
+    "AvgRoundVelocity": 5670.1143,
+    "AvgKillDistance": 5327477.4011,
+    "AvgSiteDistance": 6217469.6976,
+    "RoundWinner": 0,
+    "MatchWinner": 1,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 1.9593,
+    "AvgCentroidDistance": 7197718.5363,
+    "TravelledDistance": 3123314.2616,
+    "AvgRoundVelocity": 9719.8893,
+    "AvgKillDistance": 9405528.8114,
+    "AvgSiteDistance": 11425291.2134,
+    "RoundWinner": 0,
+    "MatchWinner": 1,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 0.143,
+    "AvgCentroidDistance": 5571859.621,
+    "TravelledDistance": 24601299.5904,
+    "AvgRoundVelocity": 10865.6373,
+    "AvgKillDistance": 2598810.6957,
+    "AvgSiteDistance": 5460558.9872,
+    "RoundWinner": 0,
+    "MatchWinner": 0,
+    "AbnormalMatch": 0.0
+  },
+  {
+    "ScaledTimeAlive": 1.5872,
+    "AvgCentroidDistance": 15999597.2027,
+    "TravelledDistance": 12039154.6876,
+    "AvgRoundVelocity": 9436.8791,
+    "AvgKillDistance": 2069768.0576,
+    "AvgSiteDistance": 4281432.6922,
+    "RoundWinner": 0,
+    "MatchWinner": 1,
+    "AbnormalMatch": 0.0
+  }
+]
