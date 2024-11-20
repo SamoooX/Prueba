@@ -1,0 +1,47 @@
+[
+  {
+    "ScaledTimeAlive": 0.7459,
+    "RoundWinner": 0,
+    "TravelledDistance": 36580820.2816,
+    "RoundKills": 1.8695,
+    "AvgKillDistance": 6838145.4721,
+    "FirstKillTime": 298.6176,
+    "AvgCentroidDistance": 11409458.8075
+  },
+  {
+    "ScaledTimeAlive": 0.8706,
+    "RoundWinner": 1,
+    "TravelledDistance": 23261362.2442,
+    "RoundKills": 3.1581,
+    "AvgKillDistance": 7628549.6428,
+    "FirstKillTime": 25.5314,
+    "AvgCentroidDistance": 6215226.7643
+  },
+  {
+    "ScaledTimeAlive": 0.592,
+    "RoundWinner": 1,
+    "TravelledDistance": 38643907.3664,
+    "RoundKills": 3.424,
+    "AvgKillDistance": 7403548.198,
+    "FirstKillTime": 493.0621,
+    "AvgCentroidDistance": 14077835.7574
+  },
+  {
+    "ScaledTimeAlive": 0.2188,
+    "RoundWinner": 1,
+    "TravelledDistance": 4896370.3383,
+    "RoundKills": 1.4067,
+    "AvgKillDistance": 5982157.9057,
+    "FirstKillTime": 347.3911,
+    "AvgCentroidDistance": 11009531.9749
+  },
+  {
+    "ScaledTimeAlive": 1.0794,
+    "RoundWinner": 1,
+    "TravelledDistance": 31855362.6659,
+    "RoundKills": 4.0227,
+    "AvgKillDistance": 9935509.7072,
+    "FirstKillTime": 402.4412,
+    "AvgCentroidDistance": 19732678.3258
+  }
+]
